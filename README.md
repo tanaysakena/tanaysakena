@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay Saksena</h1>
 <h3 align="center">Versatile Professional: AWS Cloud Engineer, DevOps Specialist, Full Stack Developer, Cyber Forensic Investigator, and Digital Marketing Expert</h3>
 
-- 🔭 I’m currently working on **Careertronics**
+- 🔭 I’m currently working on **Cloud Project Deployments**
 
 - 📫 How to reach me **tanaysaksena@gmail.com**
 
